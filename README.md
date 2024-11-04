@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me:<br>Hi,I'm Rafael Pereira and I'm 20 years old.<br>I started programming in 2022,when I started attending college.</h3>
+<h3 align="left">👩‍💻  About Me:<br>Hi,my name is Rafael Pereira and I'm 20 years old.<br>I started programming in 2022,when I started attending college.</h3>
 
 ###
 
