@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m studying LEI at UMinho University<br>- 📚 I'm currently learning Data Structs and Algorithms<br>- 🥋 In my free time I train Brazilian Jiu-Jitsu</p>
+<p align="left">- 🔭 I’m studying LEI at UMinho University<br>- 📚 I'm currently learning Web Development<br>- 🥋 In my free time I train Brazilian Jiu-Jitsu</p>
 
 ###
 
